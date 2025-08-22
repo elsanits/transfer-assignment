@@ -3,3 +3,4 @@
 - Collaboration-friendly. Branching and merging make teamwork easy.
 
 # Weaknesses
+- Commands and concepts (branches, rebase, staging) can confuse beginners.
