@@ -4,3 +4,4 @@
 
 # Weaknesses
 - Commands and concepts (branches, rebase, staging) can confuse beginners.
+- Merging/rebasing in large projects can be tricky and complex.
